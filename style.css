@@ -6,6 +6,9 @@ a:visited {
     text-decoration: none;
     border:none;
 }
+a{
+    text-decoration:none;   
+}
 
 
 #profilePic {
@@ -51,16 +54,16 @@ a:visited {
 }
 
 
-#linkedin {
+#linkedin a{
     color: #0072b1;
     
 }
-#facebook {
+#facebook a{
     color: #4267B2;
 }
-#whatsapp{
+#whatsapp a{
     color: #25D366;
 }
-#github{
+#github a{
     color: #2c2a2a;
 }
